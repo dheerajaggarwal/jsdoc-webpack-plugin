@@ -14,12 +14,12 @@
     "jsdoc",
     "webpack"
   ],
-  "author": "Mitko Tschimev <net.mitko.tschimev@mhp.com> (http://www.mitko-tschimev.de)",
+  "author": "Mitko Tschimev <net.mitko.tschimev@mhp.com> (http://www.mitko-tschimev.de), Dheeraj Aggarwal <mail.dheerajaggarwal@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tfiwm/jsdoc-webpack-plugin/issues"
+    "url": "https://github.com/dheerajaggarwal/jsdoc-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/tfiwm/jsdoc-webpack-plugin#readme",
+  "homepage": "https://github.com/dheerajaggarwal/jsdoc-webpack-plugin#readme",
   "dependencies": {
     "fs-extra": "^0.30.0",
     "jsdoc": "^3.4.0",
